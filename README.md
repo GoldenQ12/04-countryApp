@@ -26,4 +26,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## Additional information
+
+This app is made in English except the GUI, so feel free to use it as in English
+Website link --> https://goldenq12.github.io/04-countryApp/
+
 
